@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: background-image 0.3s ease-in-out; /* Optional: smooth transition */
+}
